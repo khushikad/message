@@ -1,0 +1,55 @@
+body{
+    background-image: linear-gradient( pink, #fff ) ;
+    height: 100%;
+text-align: center;
+
+        
+    }
+    html{
+        height: 100%;
+        
+    }
+      
+  
+
+        #addroom{
+text-align: center;
+background: black;
+color: pink;
+font-size: medium;
+margin-top: 15px;
+
+
+
+        }
+
+        #username{
+
+margin-top: 150px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+        }
+            
+    #logout{
+  padding:10px;
+  padding-left: 15px;
+    position: absolute;
+    top:0;
+    right: 0;
+    font-size:x-large;
+    background: black;
+    color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        }
+#output{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    color:pink;
+font-size: x-large;
+padding-top: 10px;
+}
+
+#roomname{
+width:40%;
+
+}

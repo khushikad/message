@@ -1,0 +1,51 @@
+
+body{
+    background-image: linear-gradient( pink, #fff ) ;
+    height: 100%;
+text-align: center;
+
+        
+    }
+    html{
+        height: 100%;
+        
+    }
+
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#logout{
+    padding:10px;
+    padding-left: 15px;
+      position: absolute;
+      top:0;
+      right: 0;
+      font-size:x-large;
+      background: black;
+      color: pink;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.divmessage {
+    background: black;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+    padding: 30px;
+  
+}
+
+label{
+font-size:x-large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: pink;
+
+}
+
+#sendbutton{
+background-color: pink;
+color: black;
+}

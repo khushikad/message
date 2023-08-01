@@ -1,0 +1,46 @@
+body{
+        background-image: linear-gradient( to right, black 0%, black 40%,pink 40%,#fff 100%  ) ;
+        height: 100%;
+    
+            
+        }
+      
+
+        #left{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color:pink;
+text-align: center;
+padding-top: 200px;
+
+        }
+
+      #right{
+text-align: center;
+padding-top: 200px;
+
+      }
+      #blogin{
+        background: black;
+        color: pink;
+    
+font-size: larger;
+    }
+
+    #signtochat{
+width: 40%;
+
+    }
+
+    h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+
+
+      
+
+
+
+        
+        
+        
